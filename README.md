@@ -1,13 +1,15 @@
 # DIKWP-SCALE²
 
-**Semantic Compute Allocation, Locality, Energy and Sovereignty Execution Fabric**  
-**无定义意图驱动的数—算—电—网联邦执行与主权调度系统**
+Created by Yucong Duan (段玉聪).
 
-Semantic Runtime: **DIKWP-MESH 5.0**
+Semantic Compute Allocation, Locality, Energy and Sovereignty Execution Fabric  
+无定义意图驱动的数—算—电—网联邦执行与主权调度系统
+
+Semantic Runtime: DIKWP-MESH 5.0
 
 DIKWP-SCALE² is a reference execution fabric that compiles definition-free intent fields and problem-relationship kernels into auditable, multi-objective AI execution plans across heterogeneous models, accelerators, regions, energy windows and data-sovereignty boundaries.
 
-It is **not** a new ontology and does not define intelligence, safety, sovereignty or public benefit. It preserves observer differences and UAX residuals, runs all 25 ordered DIKWP×DIKWP primitives, and refuses to collapse non-negotiable constraints into a single score.
+It is not a new ontology and does not define intelligence, safety, sovereignty or public benefit. It preserves observer differences and UAX residuals, runs all 25 ordered DIKWP×DIKWP primitives, and refuses to collapse non-negotiable constraints into a single score.
 
 ## Why this project
 
